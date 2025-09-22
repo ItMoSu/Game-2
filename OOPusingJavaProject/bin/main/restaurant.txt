@@ -1,0 +1,4 @@
+1#Bob#Deluxe Burger#19#19
+2#Grace VIP#Bacon Burger#15#30
+3#Frank#Veggie Burger#15#21
+4#Eve#Veggie Burger#15#21
